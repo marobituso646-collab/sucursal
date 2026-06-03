@@ -1,0 +1,6 @@
+{
+  "name": "Ferretería Bogotana",
+  "description": "Experiencia web cinematográfica premium para Ferretería Bogotana, líder en herramientas, materiales de construcción y remodelación en Bogotá.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
